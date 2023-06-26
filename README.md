@@ -12,7 +12,7 @@ Os cenários estão escritos em Gherkin no arquivo "buscar.feature" no diretóri
 * Gherkin;
 * BDD;
 * Cucumber;
-* Firefox;
+* Firefox (geckodriver);
 * Linux.
 
 ## 🚀 Rodando o projeto
