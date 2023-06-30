@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9dd7f8d-de3e-443e-bdd7-6292dbafdfb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/klok/pages/BuscadorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/klok/stepDefinitions/BuscadorSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/klok/support/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tech/klok/testRunners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/buscar.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tech/klok/pages/BuscadorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tech/klok/pages/BuscadorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tech/klok/stepDefinitions/BuscadorSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tech/klok/stepDefinitions/BuscadorSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tech/klok/support/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tech/klok/support/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
